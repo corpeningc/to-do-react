@@ -1,0 +1,16 @@
+.main-body{
+    background-color: seashell;
+}
+.todo-list{
+    text-align: center;
+    width: auto;
+    padding: 250px;
+}
+
+.hero-text {
+    text-align:center;
+}
+
+.footer {
+    text-align:center;
+}
