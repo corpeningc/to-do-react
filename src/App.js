@@ -1,6 +1,5 @@
 import React, {useState, useRef, useEffect} from 'react';
 import TodoList from './TodoList';
-import "./App.css"
 
 const LOCAL_STORAGE_KEY = "local.key"
 
